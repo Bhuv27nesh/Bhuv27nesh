@@ -12,10 +12,10 @@
 
 <!--Profile Viewer -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuv27nesh&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuv27nesh&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="85%"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuv27nesh&theme=highcontrast&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuv27nesh&theme=highcontrast&hide_border=true" width="80%"/>
 </p>
 
 <!--GitHub Profile Summary -->
