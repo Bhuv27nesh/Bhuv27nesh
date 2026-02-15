@@ -6,7 +6,6 @@
 <!-- Profile Views Counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhuv27nesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhuv27nesh" /> </p>
 
-
 <!-- Tools and Languages -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://gtkwave.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c000353c-ca89-4ec3-b942-bbcd321f8469" alt="c" width="40" height="40"/> </a><a href="https://bleyer.org/icarus/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/f545c6af-4db5-42d3-8fdd-37c3b9088596" alt="c" width="40" height="40"/> </a><a href="https://www.altera.com/products/development-tools/quartus" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/726c5f3d-6d73-44f7-affe-0351ee1f08a9" alt="c" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
@@ -19,6 +18,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuv27nesh&theme=highcontrast&hide_border=true" width="90%"/>
 </p>
 
+<!--GitHub Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuv27nesh&theme=github_dark" width="80%" />
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuv27nesh&theme=github_dark" width="80%" />
+</td>
+</table>
+<table width="95%">
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuv27nesh&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
