@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<h3 align="center">Digital Design & VLSI enthusiast | Hardware Verification Learner | Low-Level Systems Programmer</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&lines=Verilog+Developer;FSM+Designer;VLSI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=21&center=true&vCenter=true&lines=Digital+Design+and+VLSI+enthusiast;Hardware+Verification+Learner;Low-Level+Systems+Programmer" />
 </p>
 
 
