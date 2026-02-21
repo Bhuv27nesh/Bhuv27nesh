@@ -29,12 +29,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuv27nesh&theme=github_dark" width="80%" />
 </td>
 </table>
-<table width="95%">
+<!--<table width="95%">
 <td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuv27nesh&theme=github_dark" width="80%" />
 </td>
 </tr>
-</table>
+</table>-->
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
