@@ -22,19 +22,10 @@
 </p>
 
 <!--GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuv27nesh&theme=github_dark" width="80%" />
-<table width="95%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuv27nesh&theme=github_dark" width="80%" />
-</td>
-</table>
-<!--<table width="95%">
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuv27nesh&theme=github_dark" width="80%" />
-</td>
-</tr>
-</table>-->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhuv27nesh&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhuv27nesh&theme=github_dark" />
+</p>
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
