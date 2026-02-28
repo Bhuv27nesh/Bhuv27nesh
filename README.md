@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<p aling="center">
+<p align="center">
 <img src = "https://github.com/user-attachments/assets/b8d94584-5231-4531-8b64-b3cf18c5e8fb" />
 </p>
 <p align="center">
