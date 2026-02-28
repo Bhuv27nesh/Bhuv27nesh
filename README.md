@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
 <p align="center">
-![Demo](https://github.com/user-attachments/assets/2a510a36-86d1-400b-88c4-b159f8bb4f7f)
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=21&center=true&vCenter=true&lines=VLSI+Enthusiast;RTL+Coding;Hardware+Verification+Learner;Low-Level+Systems+Programmer" />
 </p>
 
