@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
-<p align="center">
+<p aling="center">
 <img src = "https://github.com/user-attachments/assets/b8d94584-5231-4531-8b64-b3cf18c5e8fb" />
-<!--[Video Project_2](https://github.com/user-attachments/assets/b8d94584-5231-4531-8b64-b3cf18c5e8fb)-->
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=21&center=true&vCenter=true&lines=VLSI+Enthusiast;RTL+Coding;Hardware+Verification+Learner;Low-Level+Systems+Programmer" />
 </p>
-
-
-
-
 
 - 🌱 I’m currently learning **SystemVerilog, Python**
 
