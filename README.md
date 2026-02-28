@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
 <p align="center">
+![Video Project_2](https://github.com/user-attachments/assets/f15f2b4a-78c6-41e7-8edf-494a2e130945)
+
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=21&center=true&vCenter=true&lines=VLSI+Enthusiast;RTL+Coding;Hardware+Verification+Learner;Low-Level+Systems+Programmer" />
 </p>
 
