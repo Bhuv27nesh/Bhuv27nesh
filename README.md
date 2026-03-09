@@ -28,6 +28,7 @@
 	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 	<a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2abeb1b0-ee5d-4814-9f08-41c0c952bc0e" alt="LTSpice" width="40" height="40"/> </a> 
+	<a href="https://verilator.org/guide/latest/overview.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d792fc45-2a4a-49c5-bd1e-096208ecd2f0" alt="Verilator" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Tools / OS:</h3>
