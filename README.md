@@ -12,33 +12,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhuv27nesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhuv27nesh" /> </p>
 
 <!-- Tools and Languages -->
-<!--<h3 align="left">Languages:</h3>
-<p align="left"> 
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-	<a href="https://www.tcl-lang.org/about/language.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3713c11b-b561-49ef-a45c-c77cc2d14785" alt="tcl" width="35" height="55"/> </a>
-</p>
-
-<h3 align="left">Simulation Tools:</h3>
-<p align="left">
-	<a href="https://gtkwave.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c000353c-ca89-4ec3-b942-bbcd321f8469" alt="c" width="40" height="40"/> </a>
-	<a href="https://bleyer.org/icarus/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/f545c6af-4db5-42d3-8fdd-37c3b9088596" alt="c" width="40" height="40"/> </a>
-	<a href="https://www.altera.com/products/development-tools/quartus" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/726c5f3d-6d73-44f7-affe-0351ee1f08a9" alt="c" width="40" height="40"/> </a>
-	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-	<a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2abeb1b0-ee5d-4814-9f08-41c0c952bc0e" alt="LTSpice" width="40" height="40"/> </a> 
-	<a href="https://verilator.org/guide/latest/overview.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d792fc45-2a4a-49c5-bd1e-096208ecd2f0" alt="Verilator" width="55" height="55"/> </a> 
-</p>
-
-<h3 align="left">Tools / OS:</h3>
-<p align="left">
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-	<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/79f342f9-3c0e-49d9-b025-8ca0ac641758" alt="kali_linux" width="40" height="40"/> </a>
-</p>
--->
-
 <h3 align="left">Languages:</h3>
 <table>
   <tr>
